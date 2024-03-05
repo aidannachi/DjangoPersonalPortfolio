@@ -1,0 +1,68 @@
+body{
+	background-color:#F8F8F8!important;
+}
+
+#profile-wrapper{
+	text-align: center;
+}
+
+#profile-pic{
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+ul{
+	padding: 0;
+    list-style-type: none;
+}
+
+
+.social-links ul, li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+.social{
+	width: 75px;
+	height: 75px;
+}
+
+#interest{
+    width: 240px;
+    height: 240px;
+    object-fit: cover;
+}
+
+.interest-images{
+    text-align: center;
+}
+
+
+.interest-images ul, li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+#nachivisuals{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.nachivisuals-images ul, li{
+    margin-right: auto;
+    margin-left: auto;
+	list-style-type: none;
+	display: inline-block;
+}
+
+/*.tiktok-embed{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+} */
